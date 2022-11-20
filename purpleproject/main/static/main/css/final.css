@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+.lya {
+	width: 95%;
+	border: 4px solid rgba(0, 0, 0, 0.5);
+	margin: 0px auto;
+}
+.logo {
+	width: 80%;
+	height: 5%;
+}
+.obus {
+	margin: 0px auto;
+	font-family: Montserrat;
+	font-weight: 600;
+	text-align: center;
+}
+
+.zap {
+	width: 300px;
+	height: 227px;
+	background: #21002D;
+	margin: 0px auto;
+	padding: 8px;
+}
+.text-box {
+	box-sizing: border-box;
+
+	width: 280px;
+	height: 150px;
+
+	border: 2px solid #860CB1;
+	border-radius: 10px;
+
+	margin: 7px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 10px;
+	color: #FFFFFF;
+
+	padding: 4px;
+
+	resize: none;
+
+	box-align: center;
+
+	background: #21002D;
+}
+.opki {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+.copy-text {
+		font-family: 'Montserrat';
+		font-weight: 700;
+		font-size: 12px;
+		text-align: center;
+
+		color: #FFFFFF;
+		width: 120px;
+		height: 30px;
+
+		background: #97109A;
+		border-radius: 10px;
+		border: none;
+		padding: 4px;
+}
+.saveass  {
+		font-family: 'Montserrat';
+		font-weight: 700;
+		font-size: 12px;
+		text-align: center;
+
+		color: #FFFFFF;
+		width: 120px;
+		height: 30px;
+
+		background: #97109A;
+		border-radius: 10px;
+		border: none;
+		padding: 4px;
+}
+
+.transition {
+	margin-top: 3%;
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 224px;
+	height: 40px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	text-align: center;
+
+	color: #FFFFFF;
+
+	background: #860CB1;
+	border-radius: 10px;
+
+	border: none;
+
+	display: flex;
+	justify-content: center;
+
+	padding: 14px;
+}
+body {
+	background-image: url(imgsss/bckgrse.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+h1 {
+	font-size: 20px;
+}
+
+p {
+	font-size: 10px;
+	margin-bottom: 30px;
+}
+
+.coupon-alert {
+  display: none;
+}

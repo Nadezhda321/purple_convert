@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+.lya {
+  width: 95%;
+  border: 4px solid rgba(0, 0, 0, 0.5);
+  margin: 0px auto;
+}
+.logo {
+  width: 80%;
+  height: 5%;
+}
+
+body {
+  background-image: url(imgsss/adapt.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+h1 {
+	font-family: Montserrat;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+  	font-family: Montserrat;
+    font-size: 10px;
+    text-align: center;
+  	margin-bottom: 30px;
+}
+
+
+.container {
+	flex-direction: column;
+	margin: 0px auto;
+ /*font-family: Montserrat;
+  font-weight: 600;
+  text-align: center;*/
+  justify-content: flex-start;
+  display: flex;
+  width: 300px;
+  height: 163px;
+  background: #21002D;
+}
+
+
+/*.label {
+	display: flex;
+	justify direction: space-evently;
+	background: #860CB1;
+	border-radius: 10px;
+	width: 219px;
+	height: 49px;
+	/*
+
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  align-items: center;
+  */
+}
+
+
+.knop  {
+	background: #860CB1;
+	display: flex;
+	width: 219px;
+	height: 49px;
+	margin-left: 15px;
+	margin-top: 35px;
+	border-radius: 10px;
+}
+
+.file-label .text1 {
+	margin: 0;
+
+}
+
+.strel {
+	width: 10px;
+	height: 10px;
+}
+
+.file-label {
+	background: #860CB1;
+	display: flex;
+	width: 219px;
+	height: 49px;
+	margin-left: 40px;
+	margin-top: 15px;
+	border-radius: 10px;
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+
+.file-label img {
+	width: 19px;
+	height: 19px;
+	position: relative;
+	left: 8px;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.file-input {
+	display: none;
+}
+
+.file-label p {
+	margin-top: 30px;
+	color: #FFFFFF;
+}
+
+input[type='file'] {
+  opacity:0
+}
+
+.active{
+    color: #860CB1;
+}
+

@@ -1,0 +1,31 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="1024" fill="white"/>
+<g clip-path="url(#clip0_176_289)">
+<rect y="103" width="1440" height="921" fill="white"/>
+<circle cx="89" cy="760" r="157" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="1003" cy="803" r="157" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="146.5" cy="642.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="374.5" cy="1005.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="374.5" cy="782.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="146.5" cy="329.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="694.5" cy="877.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="865.5" cy="415.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="654" cy="643" r="157" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="334" cy="440" r="157" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="14" cy="219" r="157" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="1352" cy="920" r="157" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="534" cy="1080" r="157" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="1352" cy="93" r="157" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="1172.5" cy="136.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="1459.5" cy="372.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="239" cy="151" r="100" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="1161.5" cy="994.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="1332.5" cy="568.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+<circle cx="1212.5" cy="365.5" r="82.5" stroke="#530C6C" stroke-opacity="0.15" stroke-width="6"/>
+</g>
+<defs>
+<clipPath id="clip0_176_289">
+<rect width="1440" height="921" fill="white" transform="translate(0 103)"/>
+</clipPath>
+</defs>
+</svg>

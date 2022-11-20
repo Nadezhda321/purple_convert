@@ -1,0 +1,25 @@
+{% extends 'main/layout.html' %}
+{% load static%}
+
+{% block title %}Главная страница{% endblock %}
+
+{% block contend %}
+<<main>
+			<section class="dskhu">
+				<div class="obus">
+					<h1>Конвертер файлов</h1>
+					<p>Сконвертирует картинку документа в текст</p>
+				</div>
+				<div class="zap">
+					<textarea placeholder="Ваш текст" class="text-box" id="textbox">{{ string }}</textarea>
+    				<p class="coupon-alert">Coupon code copied</p>
+					<div class="opki">
+						<button onclick="Clipboard()" class="copy-text" id="copytext">Копировать</button>
+
+						<button class="saveass">Сохранить</button>
+					</div>
+				</div>
+				<a href=''"><button class="transition">Перейти на главную</button></a>
+			</section>
+	</main>
+{% endblock %}

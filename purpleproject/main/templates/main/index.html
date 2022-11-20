@@ -1,0 +1,26 @@
+{% extends 'main/layout.html' %}
+{% load static%}
+
+{% block title %}Главная страница{% endblock %}
+
+{% block contend %}
+		<section>
+		 <h1>Конвертер файлов</h1>
+		 <p>Сконвертиртирует картинку документа в текст</p>
+		 <div class="container">
+			 <form method="post" enctype="multipart/form-data">
+
+				 {% csrf_token %}
+
+		 		<label class='file-label'>
+					{{ form.img }}
+<!--		 		<input type="file" class="file-input">-->
+		 		<p>Выбрать файл</p>
+		 		<img class='file' src="{% static 'main/img/docic.svg' %}">
+		 		</label>
+				<button class="file-label" type="submit" ><p class='text1'>Конвертировать</p><img class='strel' src="{% static 'main/img/strelka.svg' %}" ></button>
+			 </form>
+		 </div>
+	 </section>
+
+{% endblock %}
